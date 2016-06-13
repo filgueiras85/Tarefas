@@ -1,5 +1,4 @@
 <html>
-	//Apenas testando mudar o arquivo pelo site github.com...
     <head>
         		<meta charset="utf-8" />
     </head>
