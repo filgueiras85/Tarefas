@@ -1,15 +1,1 @@
-<html lang="PT-Br">
-	<head>
-	<meta charset="UTF-8">
-	<title> MD5 e SHA1 </title>
-	</head>
-    <body>
-		<div id="header">
-	    </div>
-<?php
-$nomeInstituicao = "IFRO";
-$textoCodificado = md5($nomeInstituicao);
-echo $textoCodificado;
-?>
-</body>
-	</html>
+Fiz burrice e apaguei tudo
