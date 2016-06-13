@@ -1,12 +1,13 @@
 <html>
+	//Apenas testando mudar o arquivo pelo site github.com...
     <head>
         		<meta charset="utf-8" />
     </head>
     <body>
-<h1>Tarefa: Criação e instanciamento de classes PHP</h1>
+<h1>Tarefa: CriaÃ§Ã£o e instanciamento de classes PHP</h1>
 <?php
          // Criado por: Luan Lucena Ferreira
-         // Curso: Técnico em Informática para Internet
+         // Curso: TÃ©cnico em InformÃ¡tica para Internet
          // Polo: Ouro Preto Do Oeste
          
 class Veiculo {
@@ -46,11 +47,11 @@ class Veiculo {
         //	}
         //}
         // Fim php...
-        // Só se for usar em outro arquivo.
+        // SÃ³ se for usar em outro arquivo.
          
     $instanciarVeiculo = new Veiculo("Gol","azul","NED-9080","2005");
     
-    echo "Frase de demostração do instanciamento de classes: ";
+    echo "Frase de demostraÃ§Ã£o do instanciamento de classes: ";
     
     echo "Vende-se carro usado modelo ";
         echo $instanciarVeiculo->_modelo;
