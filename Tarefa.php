@@ -52,14 +52,10 @@ class Veiculo {
     
     echo "Frase de demostração do instanciamento de classes: ";
     
-    echo "Vende-se carro usado modelo ";
-        echo $instanciarVeiculo->_modelo;
-    echo " do ano de ";
-        echo $instanciarVeiculo->_ano;
-    echo " na cor ";
-        echo $instanciarVeiculo->_cor;
-    echo " placa ";
-        echo $instanciarVeiculo->_placa;
+    echo "Vende-se carro usado modelo " .$instanciarVeiculo->_modelo;
+    echo " do ano de " .$instanciarVeiculo->_ano;
+    echo " na cor " .$instanciarVeiculo->_cor;
+    echo " placa " .$instanciarVeiculo->_placa;
     echo " por apenas R$ 50.000,00 reais se for avista.";
 
 ?>
